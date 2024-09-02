@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>zubair's portfolio</title>
+</head>
+<body>
+    <h1 style="color: rgb(175, 90, 5);"> Syed Zubair Pasha's Portfolio</h1>
+    <h2>I'm a Web Developer</h2><hr size="2"color=black>
+   <h3> <a href="./public/birthday invite.html.html "target='_blank'>Birthhday Invite Project</a></h3>
+    <img src="./assests/Screenshot 2024-08-31 141951.png"width=200 alt="birthday invitation"><hr size="2"color=black>
+    <h3><a href="./public/movie ranking.html"target='_blank'>Movie Ranking Project</a></h3>
+    <img src="./assests/Screenshot 2024-08-31 161805.png"width=400 alt="avengers movie poster"><hr size="2"color=black>
+    <h3><a href="./public/about.html"target='_blank'>About Me</a></h3>
+    <h3><a href="./public/contact me.html"target='_blank'>Contact me</a></h3>
+</body>
+</html>
